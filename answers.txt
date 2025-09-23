@@ -1,0 +1,26 @@
+1. Pros and Cons of agile
+
+Pro: Dynamic and responds to new information quickly
+Pro: Many more interaction is produced to make sure it aligns with objective
+Con: Requires attention by all team members all the time (attention intensive)
+Con: Timeline and budget changes throughout the project
+
+2. Responsibities of Scrum Master and Project Owner
+
+Scrum Master: Manages the team’s process and health
+Product Owner: Define vision and goal about product
+
+3. Types of Meeting
+
+Daily Scrum: What was yesterday, what will be done today
+
+Sprint Review: Show what’s completed, feedback from stakeholders and next steps
+
+Sprint Retrospective: What went well or not, how to improve
+
+4. Differntiate Epic, Story, Bug, and Task
+
+Epic: Largest body of work
+Story: feature and requirements
+Bug: Problem
+Task: Immediate to do
